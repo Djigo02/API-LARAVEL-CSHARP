@@ -1,0 +1,13 @@
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\bin\Debug\ProjetDesktop.exe.config
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\bin\Debug\ProjetDesktop.exe
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\bin\Debug\ProjetDesktop.pdb
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDesktop.csproj.AssemblyReference.cache
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDesktop.Properties.Resources.resources
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDesktop.csproj.GenerateResource.cache
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDe.6223B4EB.Up2Date
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDesktop.exe
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDesktop.pdb
+C:\Users\Pro\source\repos\ProjetDesktop\ProjetDesktop\obj\Debug\ProjetDesktop.frmCampus.resources

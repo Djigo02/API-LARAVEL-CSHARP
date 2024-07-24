@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\windowsservice1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|solutionrelative:windowsservice1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\windowsservice1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|solutionrelative:windowsservice1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\windowsservice1\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|solutionrelative:windowsservice1\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\windowsservice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AFBA3-9BD3-4495-B679-CB67FF5AE70F}|WindowsService1\\WindowsService1.csproj|solutionrelative:windowsservice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7629746A-3645-48C3-8BB8-83B3E36EEBB8}|SOAPDektop\\SOAPDektop.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\soapdektop\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7629746A-3645-48C3-8BB8-83B3E36EEBB8}|SOAPDektop\\SOAPDektop.csproj|solutionrelative:soapdektop\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7629746A-3645-48C3-8BB8-83B3E36EEBB8}|SOAPDektop\\SOAPDektop.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\soapdektop\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7629746A-3645-48C3-8BB8-83B3E36EEBB8}|SOAPDektop\\SOAPDektop.csproj|solutionrelative:soapdektop\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7629746A-3645-48C3-8BB8-83B3E36EEBB8}|SOAPDektop\\SOAPDektop.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\soapdektop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7629746A-3645-48C3-8BB8-83B3E36EEBB8}|SOAPDektop\\SOAPDektop.csproj|solutionrelative:soapdektop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680DE2FB-DDC0-4F86-A465-592571D74E48}|ProjetDesktop\\ProjetDesktop.csproj|c:\\users\\pro\\source\\repos\\projetdesktop\\projetdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680DE2FB-DDC0-4F86-A465-592571D74E48}|ProjetDesktop\\ProjetDesktop.csproj|solutionrelative:projetdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Service1.cs",
+              "RelativeDocumentMoniker": "WindowsService1\\Service1.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Service1.cs",
+              "RelativeToolTip": "WindowsService1\\Service1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:41:13.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsService1\\Program.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Program.cs",
+              "RelativeToolTip": "WindowsService1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:41:01.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Service1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsService1\\Service1.Designer.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Service1.Designer.cs",
+              "RelativeToolTip": "WindowsService1\\Service1.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:40:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Service1.cs",
+              "RelativeDocumentMoniker": "WindowsService1\\Service1.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\WindowsService1\\Service1.cs [Design]",
+              "RelativeToolTip": "WindowsService1\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:40:46.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\SOAPDektop\\IService1.cs",
+              "RelativeDocumentMoniker": "SOAPDektop\\IService1.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\SOAPDektop\\IService1.cs",
+              "RelativeToolTip": "SOAPDektop\\IService1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\SOAPDektop\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "SOAPDektop\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\SOAPDektop\\Service1.svc.cs",
+              "RelativeToolTip": "SOAPDektop\\Service1.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:33:41.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\SOAPDektop\\Web.config",
+              "RelativeDocumentMoniker": "SOAPDektop\\Web.config",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\SOAPDektop\\Web.config",
+              "RelativeToolTip": "SOAPDektop\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T18:48:37.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\ProjetDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetDesktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pro\\source\\repos\\ProjetDesktop\\ProjetDesktop\\Form1.cs",
+              "RelativeToolTip": "ProjetDesktop\\Form1.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:58:37.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
